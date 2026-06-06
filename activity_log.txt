@@ -1,1 +1,1 @@
-Manual boost 1000/1000: 2026-06-06T19:03:44.000Z - chore: high volume activity booster [boost 1000/1000]
+Manual boost 1/1000: 2026-06-06T18:47:18.000Z - chore: high volume activity booster [boost 1/1000]
